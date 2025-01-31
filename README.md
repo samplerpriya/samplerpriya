@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priya Kushwaha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Data Struture and Algorithm**
 
-- 👯 I’m looking to collaborate on **FrontEnd Pojects**
+- 👯 I’m looking to collaborate on **Spring boot (Backend Project)**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **Spring boot**
 
 - 📝 I regularly write articles on [www.priyablogidea.blog](www.priyablogidea.blog)
 
-- 💬 Ask me about **html, CSS, JavaScript**
+- 💬 Ask me about **html, CSS, JavaScript,Spring, Spring Boot, Hibernate, MySQL **
 
 - 📫 How to reach me **priyakushwaha11m01@gmail.com**
 
